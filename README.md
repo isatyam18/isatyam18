@@ -7,7 +7,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/rj9884/rj9884/blob/main/git.gif?raw=true" alt="Developer Workflow Animation" width="100%" />
+  <a href="https://satyamg18.github.io/satyamg18/desk.html" target="_blank">
+    <img src="image.png" alt="Satyam's Workstation — Click for Interactive Version" width="100%" />
+  </a>
 </p>
 
 <br/>
