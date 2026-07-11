@@ -10,6 +10,8 @@
   <a href="https://satyamg18.github.io/satyamg18/desk.html" target="_blank">
     <img src="image.png" alt="Satyam's Workstation — Click for Interactive Version" width="100%" />
   </a>
+  <br/>
+  <sub><i>Double-click on the pic to open the interactive workstation! 🖥️</i></sub>
 </p>
 
 <br/>
