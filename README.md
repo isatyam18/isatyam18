@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://satyamg18.github.io/satyamg18/desk.html" target="_blank">
+  <a href="https://isatyam18.github.io/satyamg18/desk.html" target="_blank">
     <img src="image.png" alt="Satyam's Workstation — Click for Interactive Version" width="100%" />
   </a>
   <br/>
@@ -18,9 +18,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-gupta-o18/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:18satyam.gupta@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamg18)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isatyam18)
 
-![Profile Views](https://komarev.com/ghpvc/?username=satyamg18&style=flat-square&color=6E9FFF&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=isatyam18&style=flat-square&color=6E9FFF&label=Profile+Views)
 
 </div>
 
@@ -61,9 +61,9 @@ I'm an Electrical and Computer Engineering student at **Shiv Nadar Institution o
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [self-shielding](https://github.com/satyamg18/self-shielding) | AI-powered counterfeit product detection via QR scan telemetry, geographic anomaly analysis, and a 6-pillar trust score engine. | HTML · CSS · JavaScript |
-| [LeetcodeAI](https://github.com/satyamg18/LeetcodeAI) | Automate LeetCode progress tracking, daily streaks, and Hashnode publishing. | Python · APIs · Automation |
-| [Baby-Snake-Game](https://github.com/satyamg18/Baby-Snake-Game) | Interactive snake game built as the final project of Stanford's Code in Place (CS106A). | Python · CS106A Graphics |
+| [self-shielding](https://github.com/isatyam18/self-shielding) | AI-powered counterfeit product detection via QR scan telemetry, geographic anomaly analysis, and a 6-pillar trust score engine. | HTML · CSS · JavaScript |
+| [LeetcodeAI](https://github.com/isatyam18/LeetcodeAI) | Automate LeetCode progress tracking, daily streaks, and Hashnode publishing. | Python · APIs · Automation |
+| [Baby-Snake-Game](https://github.com/isatyam18/Baby-Snake-Game) | Interactive snake game built as the final project of Stanford's Code in Place (CS106A). | Python · CS106A Graphics |
 
 ---
 
@@ -71,21 +71,21 @@ I'm an Electrical and Computer Engineering student at **Shiv Nadar Institution o
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=satyamg18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Satyam's GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=isatyam18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Satyam's GitHub Stats" />
 
 <br/><br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=satyamg18&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49.5%" alt="GitHub Streak" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=satyamg18&layout=compact&theme=tokyonight&hide_border=true" width="49.5%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=isatyam18&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49.5%" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=isatyam18&layout=compact&theme=tokyonight&hide_border=true" width="49.5%" alt="Top Languages" />
 </p>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyamg18/satyamg18/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyamg18/satyamg18/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/satyamg18/satyamg18/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isatyam18/satyamg18/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isatyam18/satyamg18/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isatyam18/satyamg18/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
