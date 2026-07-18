@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://isatyam18.github.io/satyamg18/desk.html" target="_blank">
+  <a href="https://isatyam18.github.io/isatyam18/desk.html" target="_blank">
     <img src="image.png" alt="Satyam's Workstation — Click for Interactive Version" width="100%" />
   </a>
   <br/>
@@ -83,9 +83,9 @@ I'm an Electrical and Computer Engineering student at **Shiv Nadar Institution o
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isatyam18/satyamg18/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isatyam18/satyamg18/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isatyam18/satyamg18/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isatyam18/isatyam18/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isatyam18/isatyam18/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isatyam18/isatyam18/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
