@@ -1,0 +1,41 @@
+name: Generate Language Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  push:
+    branches: [main]
+  workflow_dispatch:        # allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate langs.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: isatyam18
+          EXCLUDE_REPOS: isatyam18
+          EXCLUDE_LANGS: HTML,CSS,Jupyter Notebook
+        run: python .github/scripts/generate_langs_svg.py
+
+      - name: Commit and push langs.svg
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add langs.svg
+          git diff --cached --quiet || git commit -m "chore: update language stats [skip ci]"
+          git push
