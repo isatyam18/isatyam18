@@ -71,13 +71,9 @@ I'm an Electrical and Computer Engineering student at **Shiv Nadar Institution o
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=isatyam18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Satyam's GitHub Stats" />
-
-<br/><br/>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=isatyam18&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49.5%" alt="GitHub Streak" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=isatyam18&layout=compact&theme=tokyonight&hide_border=true" width="49.5%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=isatyam18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49.5%" alt="Satyam's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=isatyam18&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="49.5%" alt="Top Languages" />
 </p>
 
 <br/>
